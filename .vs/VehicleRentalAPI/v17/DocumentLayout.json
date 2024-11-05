@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\entities\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\dto\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\dto\\rentaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\controllers\\rentalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|c:\\users\\asus-01\\desktop\\szft14\\vehiclerentalapi\\vehiclerentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB83DA3D-FD62-4B37-A004-38B1D16185FC}|VehicleRentalAPI\\VehicleRentalAPI.csproj|solutionrelative:vehiclerentalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 210,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241105123845_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Migrations\\20241105123845_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:38:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241105122757_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Migrations\\20241105122757_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:27:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Entities\\Rental.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Entities\\Rental.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Entities\\Rental.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Entities\\Rental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:26:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\DTO\\RentalDTO.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\DTO\\RentalDTO.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\DTO\\RentalDTO.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\DTO\\RentalDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:26:16.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalsController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\RentalsController.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Controllers\\RentalsController.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\RentalsController.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Controllers\\RentalsController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAqwEMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:06:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Controllers\\VehiclesController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:06:19.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Entities\\Customer.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T11:53:25.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:58:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "VehicleRentalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus-01\\Desktop\\szft14\\VehicleRentalAPI\\VehicleRentalAPI\\Program.cs",
+              "RelativeToolTip": "VehicleRentalAPI\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:33:01.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
